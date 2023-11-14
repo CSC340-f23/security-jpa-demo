@@ -13,3 +13,4 @@ CRUD App Using Spring Security 6 for Authentication.
 - Run the main method.
 - On Web Browser:
   * http://localhost:8080
+  * Default login: user:admin1 , password:password
